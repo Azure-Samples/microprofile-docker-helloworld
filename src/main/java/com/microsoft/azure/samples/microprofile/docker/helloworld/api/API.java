@@ -1,4 +1,4 @@
-package net.jonathangiles.microprofile.docker.helloworld.api;
+package com.microsoft.azure.samples.microprofile.docker.helloworld.api;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.ws.rs.GET;

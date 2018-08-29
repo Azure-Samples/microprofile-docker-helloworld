@@ -1,4 +1,4 @@
-package net.jonathangiles.microprofile.docker.helloworld;
+package com.microsoft.azure.samples.microprofile.docker.helloworld;
 
 import javax.ws.rs.ApplicationPath;
 
